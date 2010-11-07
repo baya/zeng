@@ -1,0 +1,23 @@
+ -
+  Book:
+   owner
+  User:
+   books
+ -
+  User:
+   project
+  Project:
+   master
+ -
+  User:
+   projects
+  Project:
+   members
+ -
+  User:
+   icon
+  Icon:
+   user
+ 
+
+

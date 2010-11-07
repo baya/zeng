@@ -1,0 +1,36 @@
+ -
+  Book:
+   owner
+  User:
+   book
+  plural:
+   book
+  singular:
+   owner
+ -
+  User:
+   projects
+  Project:
+   members
+  plural:
+   projects
+   members
+ -
+  User:
+   icons
+  Icon:
+   users
+  singular:
+    icons
+    users
+ -
+  User:
+   husband
+   wife
+ -
+  User:
+   friends
+ 
+  
+
+

@@ -1,0 +1,3 @@
+2010-1-20 add docking method for CuteKV::Document, enhance it's scalability
+2010-1-20 add CuteKV::Timestamp module supporting timestamp function
+2010-1-24 add CuteKV::Validations module supporting validate
