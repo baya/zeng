@@ -1,4 +1,4 @@
-class Friend 
-	include CuteKV::Document
-	assign :name
+class Friend
+  include Zeng::Document
+  assign :name
 end
