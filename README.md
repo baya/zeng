@@ -1,6 +1,5 @@
-Zeng -- based at Ruby for object-key/value map
+Zeng -- a data mapper tool for nosql database
 ==============================================
-
 
 Main features
 -------------

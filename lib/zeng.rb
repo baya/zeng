@@ -6,4 +6,3 @@ require 'zeng/document'
 require 'zeng/connector'
 require 'zeng/indexer'
 
-
