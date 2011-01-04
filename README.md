@@ -5,6 +5,7 @@ Main features
 -------------
 
 - **Install**
+
   sudo gem install zeng
 
 - **Independent Object Storage**
