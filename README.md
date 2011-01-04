@@ -64,4 +64,4 @@ Using in rails
 --------------
   in environment.rb, you will add
 
-       require 'zeng
+       require 'zeng'
