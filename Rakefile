@@ -22,7 +22,10 @@ task :gemspec do
     s.name = %{zeng}
     s.version = '0.0.2'
     s.summary = 'Zeng -- a data mapper tool for nosql database'
-    s.hompage = 'https://github.com/baya/zeng'
+    s.homepage = 'https://github.com/baya/zeng'
+    s.description = <<-EOF
+      Zeng(罾) is a fishing tool， it is target to capture data in nosql database。
+    EOF
     s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
     s.email = ["kayak.jiang@gmail.com"]
     s.authors = "Guimin Jiang"

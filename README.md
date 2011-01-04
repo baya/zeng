@@ -4,6 +4,9 @@ Zeng -- a data mapper tool for nosql database
 Main features
 -------------
 
+- **Install**
+  sudo gem install zeng
+
 - **Independent Object Storage**
 
   Through backend_configure to appoint storage location
