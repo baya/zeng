@@ -59,6 +59,19 @@ Supoort multiple database
 ------------------------
 Zeng using adapter to connect database backend, now support **TokyoCabinet**/**TokyoTyrant**。
 
+Benchmark
+---------
+You will find benchmark file in bc/book_bc.rb and bc/ac_book_bc.rb
+
+Platform is Ubuntu10.04, ruby1.8.7, cpu:AMD Athlon(tm) Neo X2 1.6GHz memory:1.7G
+
+  activerecord mysql write 100,00,00 records
+  1617.170000 189.330000 1806.500000 (1970.941057)
+
+  zeng tokyocabinet write 100,00,00 records
+  607.300000 496.330000 1103.630000 (1907.321967)
+
+
 
 Using in rails
 --------------
